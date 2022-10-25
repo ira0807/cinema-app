@@ -3,10 +3,10 @@
 >Supports authentication, registration and other CRUD operations.
 
 ## 📃 Content
-- [How to start using](https://github.com/ira0807/cinema#-how-to-start-using)
-- [Project structure](https://github.com/ira0807/cinema#-project-structure)
-- [Features](https://github.com/ira0807/cinema#-features)
-- [Technologies](https://github.com/ira0807/cinema#-technologies)
+- [How to start using](https://github.com/ira0807/cinema-app#-how-to-start-using)
+- [Project structure](https://github.com/ira0807/cinema-app#-project-structure)
+- [Features](https://github.com/ira0807/cinema-app#-features)
+- [Technologies](https://github.com/ira0807/cinema-app#-technologies)
 
 ## ⚙ How to start using
 >It is recommended to follow the following instructions to run:
