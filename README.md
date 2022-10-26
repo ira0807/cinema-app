@@ -1,6 +1,6 @@
 ﻿# 🎥 🕶️ Cinema-app 🕶️ 🎥
 >Application that simulates a cinema service with the shopping cart and orders. 
->Supports authentication, registration and other CRUD operations.
+>Supports authentication, registration and CRUD operations with user, order, shopping cart, movie, movie session and cinema hall.
 
 ## 📃 Content
 - [How to start using](https://github.com/ira0807/cinema-app#-how-to-start-using)
@@ -13,7 +13,7 @@
  
 1. Fork this repositories
 2. Copy link of project
-3. Open new project from Version Control and paste this link
+3. Open new project from Version Control and clone it
 4. Edit `db.properties` file in `resources` - write your own data:
 ```bash
    db.driver=YOUR_DRIVER
@@ -32,12 +32,12 @@ Example:
 6. Configure Tomcat server in your IDEA
 7. Run project
 
->HINT: for methods POST you can use [Postman](https://web.postman.co/) and writing parameters in the body
+>HINT: for testing of methods you can use [Postman](https://web.postman.co/) and writing parameters in the body
 
 ## 🧬 Project structure
 >The project has an N-Tier Architecture:
 
-- Controller - accept requests from users and display information in browser
+- Controller - accept requests from clients and display information in browser
 - Service - contains all the business logic of our application
 - DAO - is responsible for communicating with the database
 
@@ -70,4 +70,3 @@ Example:
 - JPA/Hibernate
 - Spring MVC
 - Spring Security
-- Spring Data
